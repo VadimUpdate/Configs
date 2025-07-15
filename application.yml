@@ -6,7 +6,7 @@ enable_feature_x: true
 min_password_length: 8
 support_email: support@example.com
 max_upload_size: 50
-maintenance_mode: true
+maintenance_mode: false
 date_format: dd.MM.yyyy
 enable_notifications: false
 currency: RUB
