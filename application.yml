@@ -1,3 +1,20 @@
-logging:
-  level:
-    root: INFO
+max_connections: 100
+enable_logging: true
+welcome_message: Добро пожаловать!
+timeout_seconds: 30
+enable_feature_x: true
+min_password_length: 8
+support_email: support@example.com
+max_upload_size: 50
+maintenance_mode: false
+date_format: dd.MM.yyyy
+enable_notifications: false
+currency: RUB
+default_language: ru
+items_per_page: 20
+api_access_enabled: true
+session_timeout_minutes: 15
+show_tutorial: true
+backup_enabled: true
+theme: light
+max_login_attempts: 5
