@@ -1,4 +1,4 @@
-max_connections: 1000
+max_connections: 10
 enable_logging: true
 welcome_message: Добро пожаловать!
 timeout_seconds: 30
@@ -17,4 +17,4 @@ session_timeout_minutes: 15
 show_tutorial: true
 backup_enabled: true
 theme: light
-max_login_attempts: 5
+max_login_attempts: 55
