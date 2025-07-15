@@ -3,10 +3,10 @@ enable_logging: true
 welcome_message: Добро пожаловать!
 timeout_seconds: 30
 enable_feature_x: true
-min_password_length: 3000
+min_password_length: 8
 support_email: support@example.com
 max_upload_size: 50
-maintenance_mode: false
+maintenance_mode: true
 date_format: dd.MM.yyyy
 enable_notifications: false
 currency: RUB
