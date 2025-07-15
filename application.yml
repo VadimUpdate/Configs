@@ -1,11 +1,11 @@
 max_connections: 1000
-enable_logging: true
+enable_logging: false
 welcome_message: Добро пожаловать!
 timeout_seconds: 30
 enable_feature_x: true
 min_password_length: 80
 support_email: support@example.com
-max_upload_size: 3333
+max_upload_size: 10000
 maintenance_mode: false
 date_format: dd.MM.yyyy
 enable_notifications: false
