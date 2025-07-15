@@ -1,5 +1,5 @@
 max_connections: 1000
-enable_logging: false
+enable_logging: true
 welcome_message: Добро пожаловать!
 timeout_seconds: 30
 enable_feature_x: true
